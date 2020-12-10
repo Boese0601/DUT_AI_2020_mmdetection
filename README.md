@@ -1,5 +1,5 @@
 # DUT_AI_2020_mmdetection
-CascadeRCNN+Resnext101+FPN/n
+CascadeRCNN+Resnext101+FPN
 RandomRotate90
 Cutout
 Soft_nms
